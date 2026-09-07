@@ -243,3 +243,41 @@ Airline-On-Time-Performance-Analysis/
 ├── Airline_Analysis.pbix
 │
 └── README.md
+🚀 Skills Demonstrated
+SQL
+Data Cleaning
+Data Validation
+Aggregation
+CTEs
+Window Functions
+CASE Statements
+Joins
+Feature Engineering
+Analytical Data Preparation
+Power BI
+Data Modeling
+DAX
+KPI Development
+Interactive Dashboards
+Conditional Formatting
+Ranking Analysis
+Scorecards
+Data Visualization
+Business Analytics
+Operational Performance Analysis
+KPI Monitoring
+Trend Analysis
+Route Analysis
+Carrier Performance Analysis
+Business Insight Generation
+👤 Author
+
+Derron Samuel
+
+Data Science & Data Analytics Student
+
+Skills: SQL | Power BI | Python | Excel | DAX | Data Analytics
+
+⭐ Project Type
+
+Data Analytics | Business Intelligence | SQL | Power BI Portfolio Project
